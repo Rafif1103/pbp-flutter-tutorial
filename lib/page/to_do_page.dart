@@ -2,8 +2,8 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:tutorial/model/to_do.dart';
-import 'package:tutorial/model/form.dart';
-import 'package:tutorial/page/main.dart';
+import 'package:tutorial/page/form.dart';
+import 'package:tutorial/main.dart';
 
 
 class ToDoPage extends StatefulWidget {
